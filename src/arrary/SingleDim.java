@@ -13,6 +13,7 @@ Scanner sc = new Scanner(System.in);
 //		name[3] = "pia";
 //		name[4] = "oia";
 //		name[5] = "gia";
+		name[6] = "Tia";
 	
 		System.out.println("Enter the 5 name from string");
 		for (int i = 0; i < name.length; i++) {
